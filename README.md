@@ -8,7 +8,7 @@ It does not work when multiple devices are connected.
 ## Future works
 
 - [ ] Support multiple devices
-- [ ] Screen recording & download
+- [x] Screen recording & download
 - [ ] invoke scheme
 
 Any ideas?
