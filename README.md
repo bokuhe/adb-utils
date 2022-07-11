@@ -9,7 +9,7 @@ It does not work when multiple devices are connected.
 
 - [ ] Support multiple devices
 - [x] Screen recording & download
-- [ ] invoke scheme
+- [x] invoke scheme
 
 Any ideas?
 
@@ -24,5 +24,22 @@ Get Apk
 $ sh get-apk.sh [package name]
 ```
 
+Record screen
+
+```
+$ sh screen-record.sh
+Press Enter Key to exit the record and pull.
+<Enter>
+```
+
+Call scheme
+
+```
+$ sh call-scheme.sh [scheme]
+```
+
+
+
 ## License
+
 [Apache2](LICENSE)
